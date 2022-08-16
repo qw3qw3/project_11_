@@ -9,7 +9,7 @@
 - позиционированим картинок 
 - SCSS
 -  @meta тегам (адаптив под разрешение телефона)
-- семантике тегов HTML
+- семантикой тегов HTML
 - flex-ам
 
 я научился :
@@ -19,4 +19,4 @@
 - семантике тегов HTML
 
 
-[Макет сайта](https://www.figma.com/file/942EaQnKc3Jcz2cZpLBEpZ/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C?node-id=1%3A2)
+[Макет сайта](https://www.figma.com/file/R5uymz6gpbOHsabmyaIPnA/Handshake?node-id=1%3A2)
